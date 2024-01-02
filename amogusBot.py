@@ -11,7 +11,7 @@ intents = discord.Intents.default()
 intents.members = True
 
 # Bot token
-TOKEN = 'ODczNjUwMzgxNjczMDkxMTMz.YQ7gUg.5Wwczo0Dw_WijEquSZLE9toRQ_c'
+TOKEN = ValueError
 
 # Setup bot
 bot = commands.Bot(command_prefix = "-", intents = intents)
