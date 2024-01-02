@@ -5,7 +5,7 @@ import discord
 import random
 
 # Bot Token
-TOKEN = 'ODczNjI1ODQ1OTU1MTcwNDA0.YQ7JeA.SVwfEEs7qvpBdBm3wyBQDcENdes'
+TOKEN = ValueError
 
 # Bot Client
 client = discord.Client()
